@@ -1,0 +1,33 @@
+.
+├── app
+│   ├── components
+│   │   ├── About.tsx
+│   │   ├── Contact.tsx
+│   │   ├── Hero.tsx
+│   │   ├── ProjectCard.tsx
+│   │   ├── Projects.tsx
+│   │   └── TechStack.tsx
+│   ├── favicon.ico
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── eslint.config.mjs
+├── next-env.d.ts
+├── next.config.ts
+├── package-lock.json
+├── package.json
+├── postcss.config.mjs
+├── public
+│   ├── file.svg
+│   ├── globe.svg
+│   ├── headshot.webp
+│   ├── logo.webp
+│   ├── next.svg
+│   ├── vercel.svg
+│   └── window.svg
+├── README.md
+├── strucure.txt
+├── tailwind.config.ts
+└── tsconfig.json
+
+4 directories, 27 files

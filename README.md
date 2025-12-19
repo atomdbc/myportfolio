@@ -1,66 +1,36 @@
-# Samuel Lemikan - Software Engineer Portfolio
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Getting Started
 
+First, run the development server:
 
-## 📋 Overview
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-This repository contains the source code for my personal portfolio website. As a software engineer specializing in web development, AI integration, and blockchain technologies, this portfolio showcases my skills, projects, and professional journey.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 🛠 Technologies Used
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- [Particles.js](https://vincentgarreau.com/particles.js/) for background animation
-- [AOS](https://michalsnik.github.io/aos/) for scroll animations
-- [Font Awesome](https://fontawesome.com/) for icons
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## 🌟 Features
+## Learn More
 
-- Responsive design for optimal viewing on all device sizes
-- Interactive particle background in the hero section
-- Animated skill bars to visually represent proficiency levels
-- Project showcase with links to GitHub repositories
-- Contact form for easy communication
-- Smooth scrolling and animations for enhanced user experience
+To learn more about Next.js, take a look at the following resources:
 
-## 🖥 Projects Highlighted
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-1. **MemoMate**: AI-powered journaling assistant
-2. **Social Media Backend**: Full-fledged backend with real-time features
-3. **Health Hub**: Hospital management system with telemedicine
-4. **Encrypted Chat**: End-to-end encrypted chat application
-5. **ZK Proof Integration**: Zero-Knowledge Proofs demonstration
-6. **Bitcoin Price Bot**: Real-time cryptocurrency price tracker
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## 🎓 Skills Showcased
+## Deploy on Vercel
 
-- Programming Languages: JavaScript, Python, Java, C++
-- Web Development: Node.js, React, Django, Flask, FastAPI
-- Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD
-- Architecture & Design: System Architecture, Agile Methodology, Microservices
-- Data & AI: Machine Learning, AI Agents, NLP, Data Analysis
-- Other Technologies: Blockchain, WebSockets, Caching Systems
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-
-2. Open `index.html` in your browser to view the portfolio locally.
-
-## 📬 Contact
-
-Feel free to reach out to me for collaborations or opportunities:
-
-- 📧 Email: nexigen0@gmail.com
-- 💼 LinkedIn: [Samuel Lemikan](https://www.linkedin.com/in/samuellemikan/)
-- 🐦 Twitter: [@samcraft_co](https://x.com/samcraft_co)
-- 🌐 GitHub: [atomdbc](https://github.com/atomdbc)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Designed and developed with ❤️ by Samuel Lemikan
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
